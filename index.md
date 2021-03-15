@@ -156,6 +156,44 @@ TheBeatles have the highest popularity mean value with 46.38 and FrankSin has th
 ![21](https://user-images.githubusercontent.com/68969621/111229849-8f661d00-85de-11eb-9622-73ef912f83b6.PNG)
 
 
+*Normality test*
+
+To understand whether the distribution of popularity feature is normal. 
+Confidence interval is equal to 95%, (α ) = 0.05
+Degree of freedom: 
+FrankSin =621
+PinkFloy =263
+TheBeatles =412
+
+
+Null hypothesis ->if the P-value is above 0.05, which means the data is not statistically significant.
+Alternative hypothesis -> if the P-value is below or equal to 0.05, this will mean the data is statistically significant.
+
+According to the output of the normality test from below, three artists are equally having lower than 0.05 on significance level, which means there are statistical differences, the data is not normally distributed.
+
+![22](https://user-images.githubusercontent.com/68969621/111229985-c5a39c80-85de-11eb-9e4e-320876cb73b6.PNG)
+
+*Kruskal-Wallis Test* 
+
+The data is not normally distributed, and we have more than two independent samples i.e. artists. Therefore, the Kruskal-Wallis hypothesis test is suitable for this circumstance. 
+
+![23](https://user-images.githubusercontent.com/68969621/111229989-c63c3300-85de-11eb-9aa5-58556c8f04e1.PNG)
+
+The final outcome has been rejected from the null hypothesis as the significant level is below 0.05, which proves there are statistical differences across three artists on popularity level.  
+
+*Correlation*
+This technique can identify if there is any correlation between two variables. The final outcome has shown the correlation score is 0.425, which means there is a positive weak correlation found between popularity and year.
+
+![24](https://user-images.githubusercontent.com/68969621/111230093-ed930000-85de-11eb-9825-872eff2c7d49.PNG)
+
+### Conclusion
+Overall we can see that the music/songs have changed over time from 1921-2021 and will continue to change as the preferences/likes/dislikes of people changes and will get more accurate data from now on because of the digital age and the ease of access to listen to songs in Spotify. Major changes started occurring from the year 1950 and are continuously changing which we can see from the Tableau animation for different audio features against popularity. The twitter analysis for the hashtag thebeatles helped us to understand most of the users tweeting about #thebeatles are from United Kingdom and the sentiment of those tweets is mixed and difficult to identify clearly whether it is positive or negative and hence, we calculated sentimental score using two packages in R. From statistical analysis in SPSS we got to know that the popularity level of three artists is statistically different.
+
+### References
+Nijkamp, R., 2018. Prediction of product success: explaining song popularity by audio features from Spotify data (Bachelor's thesis, University of Twente).
+
+
+
 
 
 
