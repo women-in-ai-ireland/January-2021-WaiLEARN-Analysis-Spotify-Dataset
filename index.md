@@ -182,6 +182,7 @@ The data is not normally distributed, and we have more than two independent samp
 The final outcome has been rejected from the null hypothesis as the significant level is below 0.05, which proves there are statistical differences across three artists on popularity level.  
 
 *Correlation*
+
 This technique can identify if there is any correlation between two variables. The final outcome has shown the correlation score is 0.425, which means there is a positive weak correlation found between popularity and year.
 
 ![24](https://user-images.githubusercontent.com/68969621/111230093-ed930000-85de-11eb-9825-872eff2c7d49.PNG)
@@ -194,62 +195,3 @@ Nijkamp, R., 2018. Prediction of product success: explaining song popularity by 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Initially, the songs having low or high instrumental quality were not much popular. Over the period of time popularity of songs with higher instrumental quality increased and then recently in 2020 it again started decreasing.
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/women-in-ai-ireland/January-2021-WaiLEARN-001/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
