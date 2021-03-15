@@ -65,8 +65,32 @@ From the below figure we can see that on average the speechiness feature has ver
 ![3](https://user-images.githubusercontent.com/68969621/111228638-6f355e80-85dc-11eb-977c-2fff79a0e73f.PNG)
 
 
+### Animation of Energy VS Popularity over the period of time :
+https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/EnergyVSPopularity-Animation
+On an average the value of Energy feature is 0.5 which is very good but the popularity is not that high. Over the period of time the Energy of songs increased and also gained popularity.
+![4](https://user-images.githubusercontent.com/68969621/111228783-b4f22700-85dc-11eb-8242-d144019c1517.PNG)
+![5](https://user-images.githubusercontent.com/68969621/111228792-b91e4480-85dc-11eb-886e-1445e3210c30.PNG)
+![6](https://user-images.githubusercontent.com/68969621/111228800-bb809e80-85dc-11eb-9fea-013af09f6215.PNG)
 
 
+### Animation of Instrumentalness VS Popularity over the period of time :
+Visualization link: 
+https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/InstrumentalnessVSPopularity-Animation2
+![7](https://user-images.githubusercontent.com/68969621/111228929-f1be1e00-85dc-11eb-9642-5cae77cf72de.PNG)
+![8](https://user-images.githubusercontent.com/68969621/111228931-f256b480-85dc-11eb-9c57-81264d9264ef.PNG)
+![9](https://user-images.githubusercontent.com/68969621/111228932-f256b480-85dc-11eb-8f84-d4f7a33d9851.PNG)
+
+
+### Popularity of artists ranked in descending order:
+https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/popularartists
+We can see that over the period of time from 1921-2021 TheBeatles artist is the most popular.
+![10](https://user-images.githubusercontent.com/68969621/111228992-0ef2ec80-85dd-11eb-8a9c-831212aad8c2.PNG)
+
+
+
+
+
+ Initially, the songs having low or high instrumental quality were not much popular. Over the period of time popularity of songs with higher instrumental quality increased and then recently in 2020 it again started decreasing.
 
 
 
