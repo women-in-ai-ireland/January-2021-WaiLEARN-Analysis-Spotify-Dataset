@@ -48,6 +48,7 @@ Following are the feature with its description[1]
 Initially we explored and studied the data in Tableau to understand the features. As the data is quite vast and from 1921 to 2021 visualizing the data in Tableau helped a lot to understand how the features changed over time in terms of popularity. Let’s go through the animations created in Tableau to understand some interesting trends in data over time.
 Animation of loudness VS Popularity over the period of time : 
 Visualization link: https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/LoudnessVSPopularity-Animation
+
 From the following figures we can see that in the initial period loud songs were not very popular and as the time went by we can see that from 1950 loud songs started gaining popularity. In 2020 we can see that there are two groups where loud songs had higher and lower popularity.
 
 
@@ -58,6 +59,7 @@ From the following figures we can see that in the initial period loud songs were
 ### Animation of Speechiness VS Popularity over the period of time : 
 Visualization link: 
 https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/SpeechinessVSPopularity-Animation
+
 From the below figure we can see that on average the speechiness feature has very low value and the popularity value in terms of speechiness feature is also not very high. In 1921 songs with very low values of speechiness were not popular. Even after the speechiness of the songs increased but the popularity didn’t increase. In 2020 we can see that songs with low spechiness value started gaining popularity. This is something interesting to note!
 
 ![1](https://user-images.githubusercontent.com/68969621/111228599-60e74280-85dc-11eb-910d-08f05516cbba.PNG)
@@ -68,6 +70,7 @@ From the below figure we can see that on average the speechiness feature has ver
 ### Animation of Energy VS Popularity over the period of time :
 https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/EnergyVSPopularity-Animation
 On an average the value of Energy feature is 0.5 which is very good but the popularity is not that high. Over the period of time the Energy of songs increased and also gained popularity.
+
 ![4](https://user-images.githubusercontent.com/68969621/111228783-b4f22700-85dc-11eb-8242-d144019c1517.PNG)
 ![5](https://user-images.githubusercontent.com/68969621/111228792-b91e4480-85dc-11eb-886e-1445e3210c30.PNG)
 ![6](https://user-images.githubusercontent.com/68969621/111228800-bb809e80-85dc-11eb-9fea-013af09f6215.PNG)
@@ -76,6 +79,7 @@ On an average the value of Energy feature is 0.5 which is very good but the popu
 ### Animation of Instrumentalness VS Popularity over the period of time :
 Visualization link: 
 https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/InstrumentalnessVSPopularity-Animation2
+
 ![7](https://user-images.githubusercontent.com/68969621/111228929-f1be1e00-85dc-11eb-9642-5cae77cf72de.PNG)
 ![8](https://user-images.githubusercontent.com/68969621/111228931-f256b480-85dc-11eb-9c57-81264d9264ef.PNG)
 ![9](https://user-images.githubusercontent.com/68969621/111228932-f256b480-85dc-11eb-8f84-d4f7a33d9851.PNG)
@@ -84,13 +88,15 @@ https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640
 ### Popularity of artists ranked in descending order:
 https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/popularartists
 We can see that over the period of time from 1921-2021 TheBeatles artist is the most popular.
+
 ![10](https://user-images.githubusercontent.com/68969621/111228992-0ef2ec80-85dd-11eb-8a9c-831212aad8c2.PNG)
 
 
 
 
 
- Initially, the songs having low or high instrumental quality were not much popular. Over the period of time popularity of songs with higher instrumental quality increased and then recently in 2020 it again started decreasing.
+
+Initially, the songs having low or high instrumental quality were not much popular. Over the period of time popularity of songs with higher instrumental quality increased and then recently in 2020 it again started decreasing.
 
 
 
