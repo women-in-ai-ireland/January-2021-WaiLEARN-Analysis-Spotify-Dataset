@@ -55,6 +55,19 @@ From the following figures we can see that in the initial period loud songs were
 ![2](https://user-images.githubusercontent.com/68969621/111228350-f6ce9d80-85db-11eb-8e0c-897078f572b4.PNG)
 ![1](https://user-images.githubusercontent.com/68969621/111228431-1bc31080-85dc-11eb-9ce1-323e07a27e51.PNG)
 
+### Animation of Speechiness VS Popularity over the period of time : 
+Visualization link: 
+https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/SpeechinessVSPopularity-Animation
+From the below figure we can see that on average the speechiness feature has very low value and the popularity value in terms of speechiness feature is also not very high. In 1921 songs with very low values of speechiness were not popular. Even after the speechiness of the songs increased but the popularity didn’t increase. In 2020 we can see that songs with low spechiness value started gaining popularity. This is something interesting to note!
+
+![1](https://user-images.githubusercontent.com/68969621/111228599-60e74280-85dc-11eb-910d-08f05516cbba.PNG)
+![2](https://user-images.githubusercontent.com/68969621/111228623-68a6e700-85dc-11eb-969a-da7baa44f2e7.PNG)
+![3](https://user-images.githubusercontent.com/68969621/111228638-6f355e80-85dc-11eb-977c-2fff79a0e73f.PNG)
+
+
+
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
