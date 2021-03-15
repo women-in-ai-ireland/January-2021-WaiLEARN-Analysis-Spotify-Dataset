@@ -195,5 +195,5 @@ Nijkamp, R., 2018. Prediction of product success: explaining song popularity by 
 
 <h2><a href="">Contributors</a></h2>
 <p><strong>Karin Cheong</strong> | <a href="https://www.linkedin.cn/in/haoiocheong/">LinkedIn</a>|<a href="https://github.com/Karincheong">GitHub</a></br><p>
-<p><strong>Pooja Chordiya</strong> | <a href="www.linkedin.com/in/ pooja-chordiya">LinkedIn</a>|<a href="https://github.com/poojac2294">GitHub</a></br><p>
+<p><strong>Pooja Chordiya</strong> | <a href="www.linkedin.com/in/pooja-chordiya">LinkedIn</a>|<a href="https://github.com/poojac2294">GitHub</a></br><p>
 
