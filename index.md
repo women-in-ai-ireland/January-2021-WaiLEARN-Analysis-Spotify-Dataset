@@ -52,6 +52,8 @@ From the following figures we can see that in the initial period loud songs were
 
 
 ![1](https://user-images.githubusercontent.com/68969621/111228230-bff88780-85db-11eb-973b-7d10713fdacc.PNG)
+![2](https://user-images.githubusercontent.com/68969621/111228350-f6ce9d80-85db-11eb-8e0c-897078f572b4.PNG)
+![1](https://user-images.githubusercontent.com/68969621/111228431-1bc31080-85dc-11eb-9ce1-323e07a27e51.PNG)
 
 
 
