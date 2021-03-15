@@ -139,7 +139,21 @@ The final output has shown there are twice more negative (4781) tweets compared 
 
 ![17](https://user-images.githubusercontent.com/68969621/111229646-2e3e4980-85de-11eb-835a-ba8b7869190e.PNG)
 
+According to this sentimental study, although TheBeatles is the top artist with the highest popularity between 1921- 2020 in Spotify API data, but not receiving high positive user engagements on Twitter, this outcome is contradicting initial findings. 
 
+### Statistical Analysis on SPSS
+In this analysis, we have selected three artists randomly from the entire dataset, which includes FrankSin, Pink Floyd, and TheBeatles to study if there’s any statistical significance amongst three artists over popularity.
+
+*Descriptive Analysis*
+According to the table below, the overall sample length of the artists is uneven, FrankSin has the largest, with 621 sets of sample, and Pink Floyd has the smallest, with 263 sets of sample only. 
+
+![18](https://user-images.githubusercontent.com/68969621/111229761-66de2300-85de-11eb-8d3e-8134bdf1da60.PNG)
+
+TheBeatles have the highest popularity mean value with 46.38 and FrankSin has the lowest with 28.07.
+
+![19](https://user-images.githubusercontent.com/68969621/111229840-8ecd8680-85de-11eb-872d-7efdeb90ff79.PNG)
+![20](https://user-images.githubusercontent.com/68969621/111229845-8ecd8680-85de-11eb-82ff-f1fa0d32b68d.PNG)
+![21](https://user-images.githubusercontent.com/68969621/111229849-8f661d00-85de-11eb-9622-73ef912f83b6.PNG)
 
 
 
