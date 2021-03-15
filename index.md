@@ -92,6 +92,74 @@ We can see that over the period of time from 1921-2021 TheBeatles artist is the 
 ![10](https://user-images.githubusercontent.com/68969621/111228992-0ef2ec80-85dd-11eb-8a9c-831212aad8c2.PNG)
 
 
+### Dashboard in Tableau to know more about artists:
+Link to the dashboard: https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/FinalDashbaord?publish=yes
+
+Here you can see a dashboard created in Tableau for the year 2020. The purpose of this dashboard is to know more about artists i.e. from left to right and top to bottom
+1. We can see artists ranked by popularity for the year 2020.
+2. Based on the artist we can see the songs composed by those artists ranked by popularity.
+3. In the middle we can see a line chart to understand the popularity trend of that artist over the period of time.
+4. At the bottom we can see 4 scatter plot of 4 audio features i.e. Accousticness, Loudness, Danceability and Instrumentalness against Popularity.
+
+![11](https://user-images.githubusercontent.com/68969621/111229242-7d37af00-85dd-11eb-9b88-3839d4df89e9.PNG)
+
+The dashboard is interactive and if we click on the artists all the information on the dashboard is filtered for that artist. We can easily know the total number songs by that artist, songs ranked by popularity of that artist, the popularity trend of that artist, the nature of song in terms if accousticness,loudness, danceability and instrumentalness against popularity.
+Below is the snapshot of the dashboard when we click on Workout Music artist, all other information on the dashboard is filtered accordingly.
+
+![12](https://user-images.githubusercontent.com/68969621/111229293-92acd900-85dd-11eb-9323-6dea549880f0.PNG)
+
+### Twitter Sentiment Analysis
+This is a data scraping technique that extracts tweet messages from Twitter.To achieve this, we must first create a Twitter developer account, establish a set of access tokens on R and ensure R is connected with Twitter live server. Information is extracted from the text i.e. unstructured data and getting information from unstructured data needs a lot of processing and cleaning of text. 
+In our analysis, we have successfully extracted tweet messages under the hashtag #thebeatles. The overall dataset contained 3638 observations and 90 variables and followed by creating a new data frame with a number of specific variables, including “user_id”, “status_id”, “created_at”, “screen_name”, “text”, “favorite_count”, “retweet_count”, “location” and “verified”. 
+The next step is to clean up the dataset by removing all punctuations, special characters, and symbols.
+
+*Location of the users using #thebeatles*
+There are 216 unique locations found out of the entire dataset, and the United Kingdom is situated on the rank one within the top 20 locations and we can say that users from United Kingdom are tweeting the most about #thebeatles.
+
+Here is the wordcloud to visualize the top 20 locations. 
+
+![13](https://user-images.githubusercontent.com/68969621/111229431-cdaf0c80-85dd-11eb-8f27-4f00e08ee79d.PNG)
+
+According to further analysis with the total verified user numbers, there are 98.99% unverified users, and only 1.01% are verified.
+
+![14](https://user-images.githubusercontent.com/68969621/111229436-ce47a300-85dd-11eb-9888-0932356b1b36.PNG)
+
+*The Beatles* 
+
+This is another wordcloud established by all common words from tweet messages extracted under the hashtag #thebeatles. 
+
+![15](https://user-images.githubusercontent.com/68969621/111229586-0d75f400-85de-11eb-95c9-c6b3cda4a9e8.PNG)
+
+Next is to implement a sentimental package (nrc) to analyze the overall emotion scores, the final output has shown the total sentiment plot combined with different emotions.
+
+![16](https://user-images.githubusercontent.com/68969621/111229589-0e0e8a80-85de-11eb-84f9-66097e02cd7b.PNG)
+
+Since the emotion sentimental outcome has combined with multiple different emotion scores, which is unclear and hard to understand whether more people are having more positive or negative views on #thebeatles, in order to understand the overall positive or negative sentiment of this hashtag, we have used another package (bing) to examine the dataset. 
+The final output has shown there are twice more negative (4781) tweets compared to the positive (2005) ones.  
+
+![17](https://user-images.githubusercontent.com/68969621/111229646-2e3e4980-85de-11eb-835a-ba8b7869190e.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
