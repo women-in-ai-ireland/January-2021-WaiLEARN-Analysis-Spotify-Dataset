@@ -26,7 +26,7 @@ Following are the steps we have performed in this project to accomplish the proj
 
 The analysis done can help understand some interesting trends of songs over the period from 1921 to 2021 and understand how music has changed over time.
 
-###About data
+### About data
 
 The data is sourced from Kaggle website (https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) where the data is collected from Spotify API. The data contains more than 175,000 songs along with the information of artists, genre and year. Attributes mentioned here are calculated by Spotify.
 
@@ -44,6 +44,14 @@ Following are the feature with its description[1]
 -Speechiness: It represents the presence of spoken words in the track which is measured from 0 to 1. The track having more speech-like recording has a value closer to 1.
 -Year: It ranges from 1921 to 2021.
 
+### Analysis
+Initially we explored and studied the data in Tableau to understand the features. As the data is quite vast and from 1921 to 2021 visualizing the data in Tableau helped a lot to understand how the features changed over time in terms of popularity. Let’s go through the animations created in Tableau to understand some interesting trends in data over time.
+Animation of loudness VS Popularity over the period of time : 
+Visualization link: https://public.tableau.com/profile/pooja5954#!/vizhome/SpotifyEDA_16156686828640/LoudnessVSPopularity-Animation
+From the following figures we can see that in the initial period loud songs were not very popular and as the time went by we can see that from 1950 loud songs started gaining popularity. In 2020 we can see that there are two groups where loud songs had higher and lower popularity.
+
+
+![1](https://user-images.githubusercontent.com/68969621/111228230-bff88780-85db-11eb-973b-7d10713fdacc.PNG)
 
 
 
